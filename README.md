@@ -1,2 +1,2 @@
 # Mental-Health
-CS 725-IIT Bombay-Project
+Project of CS 725 course at IIT Bombay, Autumn 2022.
