@@ -20,7 +20,6 @@ A high level methodology is shown in figure. The input dataset is preprocessed. 
 Dataset of OSMI/OSMI Mental Health in Tech Survey (https://osmihelp.org/research) is used for the objective.
 Dataset is publicly available and it has the survey information from 2014 to 2021. The dataset has a wide variety of questions asked in relation to mental health.
 
-![image](https://github.com/iamtatha/Mental-Health/assets/57251093/81999e24-1d17-4919-bf67-3935cc055e2d)
 
 
 # Results
